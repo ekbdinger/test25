@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Quiz results Export feature.
+ */
+
+include_once 'quiz_results_export.features.inc';

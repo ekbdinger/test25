@@ -1,0 +1,11 @@
+name = item_keys2_import
+description = importer for item_keys2 content type
+core = 7.x
+package = Knowledge
+version = 7.x-1.0-beta1
+project = item_keys2_import
+dependencies[] = ctools
+dependencies[] = feeds
+features[ctools][] = feeds:feeds_importer_default:1
+features[features_api][] = api:1
+features[feeds_importer][] = item_key2

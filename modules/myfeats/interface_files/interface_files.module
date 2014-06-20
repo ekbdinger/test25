@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Interface Files feature.
+ */
+
+include_once 'interface_files.features.inc';

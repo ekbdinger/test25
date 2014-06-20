@@ -1,0 +1,13 @@
+name = Quiz results Export
+description = Quiz Results and Exporting capability
+core = 7.x
+package = Admin
+php = 5.2.4
+version = 7.x-1.0
+project = quiz_results_export
+dependencies[] = views
+dependencies[] = views_data_export
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:1
+features[views_view][] = test_quiz_results
+features_exclude[dependencies][ctools] = ctools

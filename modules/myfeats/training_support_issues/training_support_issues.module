@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Training Support Issues feature.
+ */
+
+include_once 'training_support_issues.features.inc';

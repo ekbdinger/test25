@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the doc2 feature.
+ */
+
+include_once 'doc2.features.inc';

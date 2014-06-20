@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the item_keys2 feature.
+ */
+
+include_once 'item_keys2.features.inc';

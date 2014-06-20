@@ -1,0 +1,3 @@
+guid,Item Key Number,Version Code,Name,Display Name,Item ID,Value,Support Remarks,Type,Group ID,UI Controlled,Version-Build,Section,Client-Specific?,Affected Areas,Developer,Status,
+iktest1,3,UK,testA,,1,Yes,Enable this Item key to enable transmission of prescription data for RxHub activity report.,Unknown,General,Yes - Practice Defaults > Interface tab,,System Setup,,Practice Defaults > Interface tab,,Info Completed,
+iktest2,4,UK,testAcc,,0,No,"Set value to ""Yes"" to VIEW user-defined MS Access reports only - Enables EMR Access Log Report under the Reports tab. This report gives a log based on date range/per patient/per user/per staff.",Unknown,General,,,,,,,Info Completed,
