@@ -18,6 +18,8 @@ regions[footer]         = 'Footer'
 regions[page_top]       = 'Page top'
 regions[page_bottom]    = 'Page bottom'
 
+; Add a style sheet for all media
+stylesheets[all][] = style.css
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Theme Settings
